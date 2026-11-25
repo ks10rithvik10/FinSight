@@ -1,0 +1,5 @@
+
+data/
+target/
+.env
+.DS_Store
